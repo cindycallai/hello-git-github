@@ -1,4 +1,4 @@
-# hello-git-github
+# Merge - hello-git-github
 
 __Sample text__
 
