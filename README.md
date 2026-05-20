@@ -1,6 +1,7 @@
 # hello-git-github
 
 __Sample text__
+
 **Sample text**
 
 1. Item 1
