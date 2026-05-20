@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# hello-git-github - Merge
+# hello-git-github - Branch
 
 __Sample text__
 
