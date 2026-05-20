@@ -16,6 +16,17 @@ __Sample text__
 ** NOTES
 > [!NOTE]
 > Aqui temos uma nota!
+> [!TIP]
+> Aqui temos uma tip!
+
+> [!IMPORTANT]
+> Aqui temos um important!
+
+> [!WARNING]
+> Aqui temos um warning!
+
+> [!CAUTION]
+> Aqui temos um caution!
   
 # h1
 ## h2
