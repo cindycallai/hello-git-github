@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hello-git-github - Merge
 
 __Sample text__
