@@ -12,6 +12,10 @@ __Sample text__
 * Item 1
 * Item 2
 * Item 3
+
+** NOTES
+> [!NOTE]
+> Aqui temos uma nota!
   
 # h1
 ## h2
